@@ -62,8 +62,6 @@
   font-size: 20px;
   line-height: 30px;
   letter-spacing: 0.22px;
-  padding-left: 20px;
-  padding-top: 25.39px;
 }
 
 .main-ul {
@@ -82,19 +80,3 @@
   width: 1200px;
   margin: 0px auto;
 }
-
-.group-div {
-  display: flex;
-  padding-top: 55px;
-  padding-left: 35px;
-  
-}
-
-.group-div2 {
-  display: flex;
-}
-
-.group-img {
-  margin-right: 35px;
-}
-
